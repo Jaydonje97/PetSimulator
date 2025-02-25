@@ -1,0 +1,17 @@
+# ninja log v5
+32	8190	7621238172473442	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	e888bcb03c5bbe34
+1	563	7621321806471923	build.ninja	9fd84821e70a12d0
+27	2441	7621238115239670	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	651952bf82a9af60
+6	798	7621238098790029	CMakeFiles/PetSimulator.dir/Main.cpp.obj	c9642fd5cd1a1ba
+798	2533	7621238116125852	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	24e0a84d370f71e1
+11	853	7621238099334003	CMakeFiles/PetSimulator.dir/PetActions.cpp.obj	20220c370ebefd7e
+16	2166	7621238112475868	CMakeFiles/PetActionsTest.dir/test_petactions.cpp.obj	69c944a7d6390d98
+21	3690	7621238127666855	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	420797416ee21059
+853	997	7621238100706806	PetSimulator.exe	95a08b1328b3ee62
+8191	10761	7621238198410135	lib/libgtest.a	ed37b9cb22c9f9ba
+10769	10857	7621238199402857	lib/libgtest_main.a	fe9f55407f254fa6
+10761	11132	7621238202137406	lib/libgmock.a	22e6254e83ffc9c5
+11132	11214	7621238202970610	lib/libgmock_main.a	cf2eab8bf4b6ea7f
+10857	14379	7621238234497814	PetActionsTest.exe	6e5558bc0053bd94
+1	18	0	clean	5a346accd78202e1
+1	517	7621321806471923	build.ninja	9fd84821e70a12d0
